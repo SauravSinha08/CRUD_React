@@ -1,6 +1,6 @@
-.App {
-  text-align: center;
-}
+/* .App {
+
+
 
 .App-logo {
   height: 40vmin;
@@ -35,4 +35,18 @@
   to {
     transform: rotate(360deg);
   }
+} */
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+h1{
+  text-align: center;
+}
+button{
+  border-radius: 5px;
+  padding: 2px 5px;
+  border: 1px solid gainsboro;
 }
